@@ -21,4 +21,5 @@ Challenge 2: Sensor Data Collection
 Challenge 3: Two-Way Chat System
 ![alt text](<img/Screenshot 2025-10-02 124214.png>) ![alt text](<img/Screenshot 2025-10-02 125214.png>)
 
-![alt text](<Screenshot 2025-10-02 112137.png>)
+Group Broadcasting
+![alt text](<img/Screenshot 2025-10-02 135424.png>)
