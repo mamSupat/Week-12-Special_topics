@@ -1,0 +1,59 @@
+# === ESP-IDF / CMake build artifacts ===
+build/
+*/build/
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+compile_commands.json
+
+# === ESP-IDF configs (แก้ตามนโยบายทีม) ===
+sdkconfig
+sdkconfig.old
+sdkconfig.ci
+sdkconfig.*.old
+
+# === VS Code / IDEs ===
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+.project
+.cproject
+.classpath
+.settings/
+
+# === Python virtualenv / cache ===
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytype/
+.pytest_cache/
+
+# === ccache / clang / misc caches ===
+.ccache/
+cache/
+.cache/
+.clangd/
+.clang-tidy
+
+# === Logs / maps / generated binaries outside build (กันพลาด) ===
+*.log
+*.map
+*.bin
+*.elf
+
+# === OS-specific junk ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Temporary files ===
+*.swp
+*.swo
+*~
